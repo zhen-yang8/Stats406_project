@@ -7,5 +7,5 @@ Datasets:
 
 Codes in R:
 
-- `stats406_final_project_zhen_yang.Rmd` and output file `stats406_final_project_zhen_yang.html`
-- pure code version `stats406_final_project_zhen_yang.R`
+- `stats406_final_project.Rmd` and output file `stats406_final_project.html`
+- pure code version `stats406_final_project.R`
